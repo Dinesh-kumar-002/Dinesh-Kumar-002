@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dinesh kumar</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">A passionate frontend web developer from Tamil Nadu</h3>
 
-- 🌱 I’m currently learning **React js and js libraries**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://dinesh-kumar-002.github.io/showcase/](https://dinesh-kumar-002.github.io/showcase/)
 
-- 💬 Ask me about **html ,css ,js ,bootstrap**
+- 💬 Ask me about **html , css , js , bootstrap**
 
 - 📫 How to reach me **dkdon812002@gmail.com**
 
