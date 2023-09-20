@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dkdon812002@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/posts/dinesh-kumar-058090230_resume-activity-7070424145523572737-LDSl?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/dinesh-kumar-058090230_resume-activity-7070424145523572737-LDSl?utm_source=share&utm_medium=member_android)
+- 📄 Know about my experiences [https://www.linkedin.com/posts/dinesh-kumar-058090230](https://www.linkedin.com/posts/dinesh-kumar-web-dev_my-updated-resume-activity-7105234618986987520-Pt53?utm_source=share&utm_medium=member_desktop)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
