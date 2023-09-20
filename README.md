@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dinesh kumar</h1>
 <h3 align="center">A passionate frontend web developer from Chennai,Tamil Nadu,India</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React.js and Node.Js**
 
-- 👨‍💻 All of my projects are available at [https://dinesh-kumar-002.github.io/showcase/](https://dinesh-kumar-002.github.io/showcase/)
+- 👨‍💻 All of my projects are available at [showcase](https://dinesh-kumar-002.github.io/showcase/)
 
 - 💬 Ask me about **html , css , js , bootstrap**
 
 - 📫 How to reach me **dkdon812002@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/posts/dinesh-kumar-058090230](https://www.linkedin.com/posts/dinesh-kumar-web-dev_my-updated-resume-activity-7105234618986987520-Pt53?utm_source=share&utm_medium=member_desktop)
+- 📄 Know about my experiences [MY RESUME](https://www.linkedin.com/posts/dinesh-kumar-web-dev_my-updated-resume-activity-7105234618986987520-Pt53?utm_source=share&utm_medium=member_desktop)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
