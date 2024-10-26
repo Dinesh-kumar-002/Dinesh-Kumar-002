@@ -1,4 +1,4 @@
-    <h1 align="center">Hi 👋, I'm Dinesh kumar</h1>
+
 <h3 align="center">A passionate frontend web developer from Chennai,Tamil Nadu,India</h3>
 
 - 🌱 I’m currently learning **React.js and Node.Js**
